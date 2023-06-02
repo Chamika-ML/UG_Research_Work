@@ -1,0 +1,8 @@
+numpy
+pickle5
+streamlit
+streamlit-option-menu
+scikit-learn
+lightkurve
+pandas
+matplotlib
